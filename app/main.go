@@ -8,13 +8,13 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/Encrypt-S/navpi-go/app/api"
-	"github.com/Encrypt-S/navpi-go/app/boxsetup/setupapi"
-	"github.com/Encrypt-S/navpi-go/app/conf"
-	"github.com/Encrypt-S/navpi-go/app/daemon"
-	"github.com/Encrypt-S/navpi-go/app/daemon/daemonapi"
-	"github.com/Encrypt-S/navpi-go/app/manager/managerapi"
-	"github.com/Encrypt-S/navpi-go/app/user"
+	"github.com/red010b37/steve-api/app/api"
+	"github.com/red010b37/steve-api/app/boxsetup/setupapi"
+	"github.com/red010b37/steve-api/app/conf"
+	"github.com/red010b37/steve-api/app/daemon"
+	"github.com/red010b37/steve-api/app/daemon/daemonapi"
+	"github.com/red010b37/steve-api/app/manager/managerapi"
+	"github.com/red010b37/steve-api/app/user"
 	"github.com/gorilla/mux"
 )
 

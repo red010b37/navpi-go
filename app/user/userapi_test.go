@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Encrypt-S/navpi-go/app/api"
-	"github.com/Encrypt-S/navpi-go/app/conf"
+	"github.com/red010b37/steve-api/app/api"
+	"github.com/red010b37/steve-api/app/conf"
 	"github.com/appleboy/gofight"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/stretchr/testify/assert"

@@ -8,7 +8,7 @@ import (
 
 	"fmt"
 
-	"github.com/Encrypt-S/navpi-go/app/conf"
+	"github.com/red010b37/steve-api/app/conf"
 )
 
 type RpcRequestData struct {

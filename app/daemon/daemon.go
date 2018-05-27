@@ -14,9 +14,9 @@ import (
 
 	"fmt"
 
-	"github.com/Encrypt-S/navpi-go/app/conf"
-	"github.com/Encrypt-S/navpi-go/app/daemon/daemonrpc"
-	"github.com/Encrypt-S/navpi-go/app/fs"
+	"github.com/red010b37/steve-api/app/conf"
+	"github.com/red010b37/steve-api/app/daemon/daemonrpc"
+	"github.com/red010b37/steve-api/app/fs"
 )
 
 const (

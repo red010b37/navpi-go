@@ -1,7 +1,7 @@
 package conf
 
 import (
-	"github.com/Encrypt-S/navpi-go/app/utils"
+	"github.com/red010b37/steve-api/app/utils"
 	"github.com/spf13/viper"
 )
 

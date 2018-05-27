@@ -1,5 +1,5 @@
 package setupapi
 
-import "github.com/Encrypt-S/navpi-go/app/conf"
+import "github.com/red010b37/steve-api/app/conf"
 
 var NavConfig *conf.NavConfig

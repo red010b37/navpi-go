@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Encrypt-S/navpi-go/app/api"
-	"github.com/Encrypt-S/navpi-go/app/conf"
-	"github.com/Encrypt-S/navpi-go/app/utils"
+	"github.com/red010b37/steve-api/app/api"
+	"github.com/red010b37/steve-api/app/conf"
+	"github.com/red010b37/steve-api/app/utils"
 	"github.com/gorilla/mux"
 )
 
